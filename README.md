@@ -2,7 +2,7 @@
 
 A Fall 2024 course project analyzing Capital Bikeshare (2011–2012) to explore factors that affect rentals and to build models that predict daily rental counts.
 
-[View Here]()
+[View Here](https://mdeik.github.io/Bike-Sharing-Data-Analysis/)
 
 **Notebook (release)**
 [Download the notebook (latest release)](https://github.com/mdeik/Bike-Sharing-Data-Analysis/releases/latest)
